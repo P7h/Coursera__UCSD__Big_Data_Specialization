@@ -2,7 +2,7 @@
 
 University of California, San Diego created a specialization on Coursera for "Big Data". [https://www.coursera.org/specializations/big-data](https://www.coursera.org/specializations/big-data)
 
-This repo contains solutions in Spark [both 1.6.x and 2.x] with Scala for a few questions of "Big Data" Specialization.
+This repo contains solutions in Spark 2.x [and where possible even with 1.6.x] with Scala for Spark-specific questions in "Big Data" Specialization.
 
 All solutions are in [Apache Toree](https://toree.incubator.apache.org/) Jupyter notebooks and in Scala.
 
@@ -16,3 +16,7 @@ Analytics to be determined processing 2 csv files one with [tweets](Big_Data_Int
 4. After exploring the dataset, you are now interested in how many times specific countries are mentioned. For example, how many times was France mentioned?
 5. Which country has the most mentions: Kenya, Wales, or Netherlands?
 6. Finally, what is the average number of times a country is mentioned?
+
+
+### Hadoop Platform and Application Framework
+#### Spark Joins
